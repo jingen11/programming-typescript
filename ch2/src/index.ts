@@ -7,3 +7,4 @@ let c =  {
     banana: b
 }
 let d = c.apple * 4
+
